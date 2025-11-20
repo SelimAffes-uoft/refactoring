@@ -1,3 +1,5 @@
+249a7ef Task 2.4 done, for loops refactored!
+13f1edc log updated
 7c8535b Task 2.3 done, frmt refactored!
 804ebb2 log updated
 3494def Task 2.2 done for real this time, volumeCredits refactored!
